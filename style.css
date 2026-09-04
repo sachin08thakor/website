@@ -59,7 +59,7 @@ HEADER
 
 .logo {
   width: 280px;
-  height: 80px;
+  height: 100px;
   object-fit: contain;
   object-position: left center;
   display: block;
