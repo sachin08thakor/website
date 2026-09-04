@@ -58,8 +58,8 @@ HEADER
 }
 
 .logo {
-  width: 380px;
-  height: 100px;
+  width: 280px;
+  height: 80px;
   object-fit: contain;
   object-position: left center;
   display: block;
@@ -513,7 +513,7 @@ TABLET
   }
 
   .logo {
-    width: 210px;
+    width: 300px;
     height: 70px;
   }
 
